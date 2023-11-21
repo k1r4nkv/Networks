@@ -1,7 +1,8 @@
-#Etherchannel
+# Etherchannel
+
 Etherchannel uses **Port Aggregation**, in which multiple ports in a switch are grouped together to form a single logical link. 
 
-###Uses:
+### Uses:
 * Increased Bandwidth
 * Redundancy
 * Fault Tolerance
