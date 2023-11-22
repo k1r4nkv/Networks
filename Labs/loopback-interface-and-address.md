@@ -14,6 +14,7 @@ To check interfaces:
 # Loopback Address
 It starts from 127.0.0.0 to 127.255.255.255  where the IP 127.255.255.255 is a broadcast IP.  
 The loopback address are always accessible. Thus useful for trouble shooting.
+Loopback addresses can also be used as a router-id in routing protocols like OSPF.
 
 # Lab
 ![image](https://github.com/k1r4nkv/Networks/assets/70469550/45e0bbb3-5062-479c-8866-fa8564717591)
